@@ -1,6 +1,5 @@
 ## HawkEye
-
-![Build Status](https://travis-ci.org/mrtenda/HawkEye.svg?branch=master) [![codecov](https://codecov.io/gh/mrtenda/HawkEye/branch/master/graph/badge.svg)](https://codecov.io/gh/mrtenda/HawkEye)
+[![Build Status](https://travis-ci.org/mrtenda/HawkEye.svg?branch=master)](https://travis-ci.org/mrtenda/HawkEye) [![Coverage Status](https://codecov.io/gh/mrtenda/HawkEye/branch/master/graph/badge.svg)](https://codecov.io/gh/mrtenda/HawkEye)
 
 
 **HawkEye** is a program that creates a line-by-line diff of text between different releases or versions of video games. It was developed to support the creation of [Legends of Localization Book 2: EarthBound](http://www.legendsoflocalization.com/ebbook) by [Tomato](https://www.twitter.com/ClydeMandelin) and [Fangamer](https://www.fangamer.com). If you enjoy in-depth looks at video games and/or you're at all a fan of EarthBound, you'll find a lot to enjoy in this book.

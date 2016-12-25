@@ -9,7 +9,7 @@ Currently only the various versions of MOTHER 2, EarthBound, and MOTHER 1+2 are 
 
 ### How It Works
 
-HawkEye produces output as shown above by first reading the game script data from the ROM into a graph where each node represents a specific operation. That graph of raw operations is then converted into a graph where each node represents a line of text. Graphs of lines of text for corresponding NPCs (or other text sources) are then compared with eachother, matching lines of text against each other that occupy identical locations in the graph. If the two graphs of lines of text are not isomorphic, then unmatched raw listings of lines of text for each game are outputted.
+HawkEye first reads the game script data from the ROM into a graph where each node represents a specific script operation, whether it be to GOTO another place script or to display the letter "A". This graph of raw script operations is then converted into a graph where each node represents a line of text. Graphs of lines of text for corresponding NPCs (or other text sources) are then compared with eachother, matching lines of text against each other that occupy identical locations in the graph. If the two graphs of lines of text are not isomorphic, then unmatched raw listings of lines of text for each game are outputted.
 
 For example, let's say we want to perform an analysis of NPC #93 from EarthBound. First, the program has to determine that this NPC's script data is located at $C731F0 in the ROM. This script data also references more script data at $C73217. The data in these locations is shown below.
 

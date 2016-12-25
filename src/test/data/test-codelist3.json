@@ -1,0 +1,19 @@
+[
+  {
+    "Identifier": [
+      255
+    ],
+    "Description": "Signal end of block or string",
+    "IsEnd": true,
+    "Length": 1,
+    "DialogueRepresentation": "[END]"
+  },
+  {
+    "Identifier": [
+      1, 255
+    ],
+    "Description": "play a sound",
+    "Length": 2,
+    "DialogueRepresentation": "[SOUND]"
+  }
+]

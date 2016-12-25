@@ -1,0 +1,204 @@
+[
+  {
+    "name": "MOTHER 2",
+    "short name": "M2",
+    "platform": "SFC",
+    "region": "JP",
+    "md5sum": "a086f6648288c2858329b1c9c6e49d82",
+    "files": {
+      "character table": "character_tables/m2-char-lookup.json",
+      "codelist": "codelists/eb-codelist.json"
+    },
+    "offsets": {
+      "npc table": 1018305,
+      "item table": 1404928,
+      "item table entry size": 24,
+      "item table help pointer offset": 20,
+      "action table": 1411870,
+      "enemy table": 1418304,
+      "enemy table entry size": 77,
+      "enemy table intro pointer offset": 28,
+      "enemy table death pointer offset": 32,
+      "psi ability table": 1415686,
+      "phonecall table": 1411774,
+      "phonecall table entry size": 16,
+      "phonecall table text pointer offset": 12,
+      "delivery table": 1439141,
+      "door pointer table": 1048576,
+      "text bank 1 start": 328324,
+      "text bank 1 end": 648467,
+      "text bank 2 start": -1,
+      "text bank 2 end": 0
+    }
+  },
+  {
+    "name": "MOTHER 2",
+    "short name": "M2",
+    "platform": "Wii U",
+    "region": "JP",
+    "md5sum": "04c4fee643eb2b8fc51be977c1eba013",
+    "files": {
+      "character table": "character_tables/m2-char-lookup.json",
+      "codelist": "codelists/eb-codelist.json"
+    },
+    "offsets": {
+      "npc table": 1018305,
+      "item table": 1404928,
+      "item table entry size": 24,
+      "item table help pointer offset": 20,
+      "action table": 1411870,
+      "enemy table": 1418304,
+      "enemy table entry size": 77,
+      "enemy table intro pointer offset": 28,
+      "enemy table death pointer offset": 32,
+      "psi ability table": 1415686,
+      "phonecall table": 1411774,
+      "phonecall table entry size": 16,
+      "phonecall table text pointer offset": 12,
+      "delivery table": 1439141,
+      "door pointer table": 1048576,
+      "text bank 1 start": 328324,
+      "text bank 1 end": 648467,
+      "text bank 2 start": -1,
+      "text bank 2 end": 0
+    }
+  },
+  {
+    "name": "EarthBound",
+    "short name": "EB",
+    "platform": "SNES",
+    "region": "US",
+    "md5sum": "a864b2e5c141d2dec1c4cbed75a42a85",
+    "files": {
+      "character table": "character_tables/eb-char-lookup.json",
+      "codelist": "codelists/eb-codelist.json"
+    },
+    "offsets": {
+      "npc table": 1018245,
+      "item table": 1396736,
+      "item table entry size": 39,
+      "item table help pointer offset": 35,
+      "action table": 1407848,
+      "enemy table": 1414537,
+      "enemy table entry size": 94,
+      "enemy table intro pointer offset": 45,
+      "enemy table death pointer offset": 49,
+      "psi ability table": 1411664,
+      "phonecall table": 1407662,
+      "phonecall table entry size": 31,
+      "phonecall table text pointer offset": 27,
+      "delivery table": 1439301,
+      "door pointer table": 1048576,
+      "text bank 1 start": 334610,
+      "text bank 1 end": 655662,
+      "text bank 2 start": 3100192,
+      "text bank 2 end": 3122042
+    }
+  },
+  {
+    "name": "MOTHER 1+2",
+    "short name": "M1+2",
+    "platform": "GBA",
+    "region": "JP",
+    "md5sum": "f41e36204356974c94fabf7d144dd32a",
+    "files": {
+      "character table": "character_tables/m12-char-lookup.json",
+      "codelist": "codelists/m12-codelist.json"
+    },
+    "offsets": {
+
+    }
+  },
+  {
+    "name": "MOTHER 2",
+    "short name": "M2",
+    "platform": "Brawl",
+    "region": "JP",
+    "md5sum": "695a4ede23ece4400583d639bb657307",
+    "files": {
+      "character table": "character_tables/m2-char-lookup.json",
+      "codelist": "codelists/eb-codelist.json"
+    },
+    "offsets": {
+      "npc table": 1018305,
+      "item table": 1404928,
+      "item table entry size": 24,
+      "item table help pointer offset": 20,
+      "action table": 1411870,
+      "enemy table": 1418304,
+      "enemy table entry size": 77,
+      "enemy table intro pointer offset": 28,
+      "enemy table death pointer offset": 32,
+      "psi ability table": 1415686,
+      "phonecall table": 1411774,
+      "phonecall table entry size": 16,
+      "phonecall table text pointer offset": 12,
+      "delivery table": 1439141,
+      "door pointer table": 1048576,
+      "text bank 1 start": 328324,
+      "text bank 1 end": 648467,
+      "text bank 2 start": -1,
+      "text bank 2 end": 0
+    }
+  },
+  {
+    "name": "EarthBound",
+    "short name": "EB",
+    "platform": "Smash 4",
+    "region": "US",
+    "md5sum": "037fcf5227a3086cceefe0846bc7e004",
+    "files": {
+      "character table": "character_tables/eb-char-lookup.json",
+      "codelist": "codelists/eb-codelist.json"
+    },
+    "offsets": {
+      "npc table": 1018245,
+      "item table": 1396736,
+      "item table entry size": 39,
+      "item table help pointer offset": 35,
+      "action table": 1407848,
+      "enemy table": 1414537,
+      "enemy table entry size": 94,
+      "enemy table intro pointer offset": 45,
+      "enemy table death pointer offset": 49,
+      "psi ability table": 1411664,
+      "phonecall table": 1407662,
+      "phonecall table entry size": 31,
+      "phonecall table text pointer offset": 27,
+      "delivery table": 1439301,
+      "door pointer table": 1048576
+    }
+  },
+  {
+    "name": "EarthBound",
+    "short name": "EB",
+    "platform": "Wii U",
+    "region": "US",
+    "md5sum": "f28431f5c257af1d77651780aa29f476",
+    "files": {
+      "character table": "character_tables/eb-char-lookup.json",
+      "codelist": "codelists/eb-codelist.json"
+    },
+    "offsets": {
+      "npc table": 1018245,
+      "item table": 1396736,
+      "item table entry size": 39,
+      "item table help pointer offset": 35,
+      "action table": 1407848,
+      "enemy table": 1414537,
+      "enemy table entry size": 94,
+      "enemy table intro pointer offset": 45,
+      "enemy table death pointer offset": 49,
+      "psi ability table": 1411664,
+      "phonecall table": 1407662,
+      "phonecall table entry size": 31,
+      "phonecall table text pointer offset": 27,
+      "delivery table": 1439301,
+      "door pointer table": 1048576,
+      "text bank 1 start": 334610,
+      "text bank 1 end": 655662,
+      "text bank 2 start": 3100192,
+      "text bank 2 end": 3122042
+    }
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "Identifier": [
+      255
+    ],
+    "Description": "Signal end of block or string",
+    "IsEnd": true,
+    "Length": 1,
+    "DialogueRepresentation": "[END]"
+  },
+  {
+    "Identifier": [
+      10
+    ],
+    "Description": "just a simple code",
+    "Length": 1
+  },
+  {
+    "Identifier": [
+      11
+    ],
+    "Description": "code that takes a single parameter",
+    "Length": 2
+  },
+  {
+    "Identifier": [
+      13, 1
+    ],
+    "Description": "code that takes a single parameter",
+    "Length": 3
+  },
+  {
+    "Identifier": [
+      13, 2
+    ],
+    "Description": "code that takes two parameters",
+    "Length": 4
+  },
+  {
+    "Identifier": [
+      17
+    ],
+    "Description": "unconditional call",
+    "Length": 5,
+    "ReferenceSettings": {
+      "ReferencesOffset": 1,
+      "ReferenceLength": 4,
+      "IsConditional": false,
+      "IsGoto": false
+    }
+  },
+  {
+    "Identifier": [
+      15
+    ],
+    "Description": "unconditional goto",
+    "Length": 5,
+    "IsEnd": true,
+    "ReferenceSettings": {
+      "ReferencesOffset": 1,
+      "ReferenceLength": 4,
+      "IsConditional": false,
+      "IsGoto": true
+    }
+  },
+  {
+    "Identifier": [
+      16
+    ],
+    "Description": "conditional call",
+    "Length": 5,
+    "ReferenceSettings": {
+      "ReferencesOffset": 1,
+      "ReferenceLength": 4,
+      "IsConditional": true,
+      "IsGoto": false
+    }
+  },
+  {
+    "Identifier": [
+      14
+    ],
+    "Description": "conditional goto",
+    "Length": 5,
+    "ReferenceSettings": {
+      "ReferencesOffset": 1,
+      "ReferenceLength": 4,
+      "IsConditional": true,
+      "IsGoto": true
+    }
+  },
+  {
+    "Identifier": [
+      12
+    ],
+    "Description": "conditional goto that takes variable # of references",
+    "ReferenceSettings": {
+      "ReferencesOffset": 2,
+      "ReferenceLength": 4,
+      "CountOffset": 1,
+      "IsConditional": true,
+      "IsGoto": true
+    }
+  },
+  {
+    "Identifier": [
+      18
+    ],
+    "Description": "unconditional goto that takes variable # of references",
+    "IsEnd": true,
+    "ReferenceSettings": {
+      "ReferencesOffset": 2,
+      "ReferenceLength": 4,
+      "CountOffset": 1,
+      "IsConditional": false,
+      "IsGoto": true
+    }
+  },
+  {
+    "Identifier": [
+      19
+    ],
+    "Description": "suppress next terminator",
+    "Length": 1,
+    "SuppressNextTerminator": true
+  }
+]

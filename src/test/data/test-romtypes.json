@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Name 1",
+    "short name": "N1",
+    "platform": "Platform 1",
+    "region": "AA",
+    "md5sum": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+    "files": {
+      "a": "1a.json",
+      "b": "1b.json"
+    },
+    "offsets": {
+      "qq": 11111
+    }
+  },
+  {
+    "name": "Name 2",
+    "short name": "N2",
+    "platform": "Platform 2",
+    "region": "BB",
+    "md5sum": "bbbbbbbbbbbbbbbbbbbbbbbbbbbbbbbb",
+    "files": {
+      "z1": "2a.json",
+      "z2": "2b.json"
+    },
+    "offsets": {
+      "rr": 22222
+    }
+  }
+]

@@ -1,0 +1,27 @@
+body { padding-top: 70px; }
+
+pre {
+  padding: 0px;
+  margin: 0px;
+  background: none;
+  border: none;
+  white-space: pre-wrap;
+}
+
+.line-numbers {
+  max-width: 30px;
+  max-height: 50px;
+  overflow: hidden;
+}
+
+tr.understated {
+  background-color: grey !important;
+}
+
+td.valign-top {
+  vertical-align: top;
+}
+
+.tocify {
+    width: 10%;
+}

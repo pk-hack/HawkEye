@@ -1,4 +1,5 @@
 /.idea
 /target
 /roms
+/out
 *.iml

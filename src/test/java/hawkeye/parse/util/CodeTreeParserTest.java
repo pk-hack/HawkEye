@@ -58,7 +58,7 @@ public class CodeTreeParserTest {
         }
     }
     private static final ROMType TEST_ROMTYPE = ROMType.builder()
-            .name("MrTenda's Wacky Day")
+            .name("Shadow's Wacky Day")
             .shortName("MTWD")
             .platform("LaserActive Mega LD")
             .region("US")
